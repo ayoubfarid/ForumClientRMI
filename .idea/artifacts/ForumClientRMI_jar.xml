@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ForumClientRMI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ForumClientRMI_jar</output-path>
+    <root id="archive" name="ForumClientRMI.jar">
+      <element id="module-output" name="ForumClientRMI" />
+    </root>
+  </artifact>
+</component>
